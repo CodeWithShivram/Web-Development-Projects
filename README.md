@@ -11,7 +11,6 @@ Through this course, I have gained hands-on experience in web development, cover
 ### 1. Blog With Database (Final)
 
 - **Description**: This project involved building a blog website with a database to store and manage blog posts. Users can create, edit, and delete posts.
-- **Screenshot**: ![Blog With Database Screenshot](screenshots/blog-with-database.png)
 - **Link**: [Project Repository](https://github.com/CodeWithShivram/Web-Development-Projects/tree/main/Blog-With-Database-final)
 
 ### 2. Dicee Challenge (Completed)
@@ -29,13 +28,11 @@ Through this course, I have gained hands-on experience in web development, cover
 ### 4. Wiki-API (Finished Project)
 
 - **Description**: Wiki-API is a RESTful API project that allows users to perform CRUD (Create, Read, Update, Delete) operations on articles.
-- **Screenshot**: ![Wiki-API Screenshot](screenshots/wiki-api.png)
 - **Link**: [Project Repository](https://github.com/CodeWithShivram/Web-Development-Projects/tree/main/Wiki-API%20Finished%20Project)
 
 ### 5. EJS Challenge (Final)
 
 - **Description**: In the EJS Challenge, I used the EJS (Embedded JavaScript) templating engine to build dynamic web pages with reusable components.
-- **Screenshot**: ![EJS Challenge Screenshot](screenshots/ejs-challenge.png)
 - **Link**: [Project Repository](https://github.com/CodeWithShivram/Web-Development-Projects/tree/main/ejs-challenge-final)
 
 ## Full-Stack Web Development
