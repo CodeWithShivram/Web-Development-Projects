@@ -16,13 +16,13 @@ Through this course, I have gained hands-on experience in web development, cover
 ### 2. Dicee Challenge (Completed)
 
 - **Description**: The Dicee Challenge is an interactive game where two dice are rolled, and the winner is determined based on the dice values.
-- **Screenshot**: ![Dicee Challenge Screenshot]([screenshots/dicee-challenge.png](https://github.com/CodeWithShivram/Web-Development-Projects/blob/main/sample.png))
+- **Screenshot**: ![Dicee Challenge Screenshot](https://github.com/CodeWithShivram/Web-Development-Projects/blob/main/sample.png)
 - **Link**: [Project Repository](https://github.com/CodeWithShivram/Web-Development-Projects/tree/main/Dicee%20Challenge%20-%20Completed)
 
 ### 3. Drum Kit (Completed)
 
 - **Description**: This project is a virtual drum kit that allows users to play different drum sounds by clicking on the corresponding images or using keyboard keys.
-- **Screenshot**: ![Drum Kit Screenshot](screenshots/drum-kit.png)
+- **Screenshot**: ![Drum Kit Screenshot](https://github.com/CodeWithShivram/Web-Development-Projects/blob/main/sample1.png)
 - **Link**: [Project Repository](https://github.com/CodeWithShivram/Web-Development-Projects/tree/main/Drum%20Kit%20Completed)
 
 ### 4. Wiki-API (Finished Project)
